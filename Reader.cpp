@@ -84,6 +84,7 @@ else
 {
 
 printf("\nReader Removed.\n");
+printf("Hello reader");
 
 s->rcount--;
 
