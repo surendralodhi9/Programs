@@ -123,6 +123,7 @@ s->rcount=s->rwait;
 s->rwait=0;
 
 printf("%d waiting Readers Added.",s->rcount);
+printf("Heloo");
 
 }
 
