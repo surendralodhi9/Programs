@@ -3,7 +3,7 @@
 #include<conio.h>
 
 #include<stdbool.h>
-
+#include<bits/stdc++.h>
 struct semaphore
 
 {
